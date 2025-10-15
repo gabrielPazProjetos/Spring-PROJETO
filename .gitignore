@@ -1,1 +1,26 @@
+# Diretório de build do Maven
+/target
 
+# Arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# Configurações de IDEs (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos JAR gerados
+*.jar
+
+# Maven wrapper (se não estiver usando)
+mvnw
+mvnw.cmd
